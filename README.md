@@ -1,0 +1,2 @@
+# Python_common_problems
+记录一些常见问题的报错以及解决方法
