@@ -5,3 +5,6 @@
 
 2.[Pandas] to_excel保存时writer.save() 报错问题：  
 > AttributeError: 'OpenpyxlWriter' object has no attribute 'save'. Did you mean: '_save'?
+
+3.如何查看自己电脑的Python位置呢？
+
