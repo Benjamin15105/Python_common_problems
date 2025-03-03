@@ -33,3 +33,5 @@
 15.7z分卷压缩包如何解压？
 
 16.Python中with……as是什么
+
+17.17.关于read(),readline(),readlines()三个函数的用法
