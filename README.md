@@ -34,4 +34,6 @@
 
 16.Python中with……as是什么
 
-17.17.关于read(),readline(),readlines()三个函数的用法
+17.关于read(),readline(),readlines()三个函数的用法
+
+18.在凭据管理器里添加Windows凭据后，要重启才能生效.
