@@ -20,7 +20,7 @@
 
 9.Google的python翻译包，效果不太好(跟网页端相比)
 
-10.避免使用+操作符在python中连接字符串,for循环和os.join()函数的性能对比（https://blog.csdn.net/qq_34769162/article/details/108902354）
+10.避免使用+操作符在python中连接字符串,for循环和os.join()函数的性能对比（https://blog.csdn.net/qq_34769162/article/details/108902354）  
 
 11.打印中文字符串长度,在学习小组时，想到打印单个字母的字符串，长度为11，如果是单个中文字时，长度是多少，以及印象中中文字符是两个字节还是两个字符来着？
 
