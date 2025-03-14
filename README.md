@@ -37,3 +37,6 @@
 17.关于read(),readline(),readlines()三个函数的用法
 
 18.在凭据管理器里添加Windows凭据后，要重启才能生效.
+
+19.笔记本电脑iNode连接获取当前网卡的ip地址失败.
+(先连接wifi在连iNode)
