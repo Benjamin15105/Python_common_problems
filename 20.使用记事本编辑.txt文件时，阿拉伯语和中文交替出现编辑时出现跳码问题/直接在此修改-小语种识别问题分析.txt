@@ -1,0 +1,95 @@
+﻿英语
+4.1.3.问题分析
+1.竞品
+(1)所有格问题：seat's识别为 seats，mars' song识别为mars song
+(2)缩写问题：How's和There's容易被识别为How is和There is，书写存在差异，但不影响语义
+(3)标注问题：360说法，音频为“three sixty”，但标注为“three six zero”，benz xfive 和 benz x five影响识别结果、fiv和five、trun和turn等
+(4)冠词的增改删：部分音频会将an/a识别为the，the识别为a，多识别一个the/a，the会丢失
+(5)拼写错误或书写规范未统一：、aircon和air condition、abort和a board、glovebox会识别为glove box；hud会识别为h u d等
+(6)近音词错误：alert 和 alarm、ambiance 和 ambient、blow 和 blue等
+(7)发音或拼写混淆：adjust 和 i just、deactivate 和 the activate、defrost 和 default、mirror和mirrow， aircon和icon，launch和lunch等
+(8)词性差异：activate 和 active、change 和 changed、favorite 和 favorites等
+(9)语境或语气差异：cancel 和 cancelled、play 和 playback、start 和 starts等
+(10)语法结构差异in to 和 into、off lane 和 offline、route 和 road等
+(11)词义差异：cool 和 cold、heat 和 hit、sunroof 和 sunroom等
+
+2.己品
+(1)冠词的增改删：部分音频会将an/a识别为the，the识别为a，多识别一个the/a，the会丢失
+(2)缩写问题：where's容易被识别为where is，书写存在差异，但不影响语义
+(3)所有格问题：vehicle's识别为 vehicle、ac's 和 ac等
+(4)拼写错误：airbags 和 air bags、ucl和u c l、bbc和b b c、classic 和 classical等
+(5)同音词或近音词混淆：am i 和 emma、and date 和 ended、dad 和 dead、deaf 和 death、left 和 life（发音相似
+(6)多词与单词混淆：auto rotate 和 authority、carplay 和 car play、glove box 和 glovebox、rearview mirror 和 rearviewmirror、
+(7)语义理解错误：for grass sliding 和 progress lighting、horizontal view 和 horizonte of u two、lower vents 和 owl of edd、
+(8)词性与语法错误：ask 和 asked（时态错误）、controls 和 control（单复数错误）、defrost 和 defroster（词性错误）、lights 和 light（单复数错误）等
+(9)标注问题：360说法，音频为“three sixty”，但标注为“three six zero”等
+
+俄语
+4.2.3.问题分析
+1.竞品
+(1)英文词汇多数会识别为纯英文
+(2)发音符号不匹配。如ё与е
+(3)书写规范未统一。常见高频vk识别为вк
+(4)存在分词问题
+(5)сиденья识别为сидения
+2.己品
+(1)书写规范未统一。常见高频bluetooth与блютуз、диджей与dj、с u  диска与с ю диско、jony与джонни、наполовину与на половину、ф м与fm、автоповорот与авто поворот、ютюб与youtube、vk与вк等
+(2)发音符号不匹配。如ё与е
+(3)同一动词的不同形式。在语气和使用场景方面存在差异，如увеличьте与увеличь、установить与установите、повернить与поверни等
+(4)近音词错误。-ение与-ения、-ание与-ания、-ся与-ть
+需检查如下表述是否存在问题：какая сегодня число
+
+西语
+4.3.3.问题分析
+1.竞品
+(1)重音符号：í和i、é和e、ó和o、á和a等
+(2)多识别数字nueve uno cero tres nueve cero cero cero cinco识别为nueve uno cero tres nueve cero cero cero cero cinco
+(3)书写规范未统一：a bajo 和 abajo、a condicionado 和 acondicionado、ami 和 a mí、rne和r n e等
+(4)介词、冠词增删改：如a 、 el 、la、en等
+(5)动词形式差异：abre 和 abrir、activa 和 activar、cambia 和 cambió等
+(6)近音词错误：adelante 和 delante、afuera 和 fuera、automáticas 和 automáticos等
+(7)发音或拼写混淆：baja 和 bajó、tempertura 和 temperatura、apgaga 和 apaga、veintecinco 和 veinticinco等
+(8)词性差异：cambia 和 cambio和parasol 和 para sol等
+(9)语境或语气差异：permítete 和 permíteme、puedes 和 puede等
+(10)词义差异：calefacción 和 calificación、parasol 和 para sol等
+(11)语法结构差异：pon en 和 ponen、deja en 和 dejan等
+
+2.己品
+(1)重音问题：í和i、é和e、ó和o、á和a、ú和u等
+(2)拼写错误或书写规范未统一：a condicionado 和 acondicionado、air china 和 airchina、mcdonald's 和 mcdonalds、veintecinco 和 veinticinco、mi casa 和 micasa等
+(3)动词形式差异：activa 和 activar、actualiza 和 actualizar、busca 和 buscar等
+(4)近音词错误：aire 和 calor、comfort 和 confort、frio 和 frío等
+(5)词性差异：automáticas 和 automáticos、parabrisa 和 parabrisas等
+(6)语境或语气差异：permítete 和 permíteme、puede 和 puedo等
+(7)语法结构差异:al siguiente 和 alsiguiente、bajo el 和 bajoel
+(8)词义差异：calefacciona 和 calefacción、parasol 和 para sol
+介词、冠词增删改：如a 、 el 、la、en等
+
+阿语
+4.4.3.问题分析
+1.己品
+(1) 书写规范：
+①“ا”与“إ、أ、اً”在发音、书写上有差异，（但不会影响语义），如：“اذهب" 和 "إذهب", 只有书写上的差异，发音和语义相同。
+② 如音译形式的英文词汇，标注افتح دي أيه بي[打开 DAP]识别为打开dab，标注中Bluetooth识别为بلوتوث
+③ 数字形式 “١٠”和 "عشرة"  .  
+⭕4 辨析“الإنجليزيّة”和“الإنجليزية”、以及“أيه”和“اي”、以及“غنيلي”与 “غنّي لي” 
+(2)近音词错误。大量存在“شغل”和 “شغّل”，以及“غنّي” 与 “غني”等，“اتصلي” 与“اتصل لي”等，二者存在语气上的细微差异，不影响句义
+(3)“ال” 定冠词增缺。如高频词汇“المستوى” 和 “مستوى” 、以及”للربع“和”الربع“、以及”الموسيقى“和”موسيقى“、以及”التكييف“和”تكييف", 
+    " خفض " 和 " اخفض",   以及 “ أربع " 和 "أربعة" ,  
+(4)纯单点识别错误，其中有数字语序的识别错误，如：
+       将“ اتصل بواحد صفر ستة سبعة ثمانية تسعة ثلاثة اثنين سبعة سبعة”识别为 “ ١٧٧٢٣٩٨٧٦٠”数字语序错乱，
+       
+(5) 句子中单词的缺失。 如以下句子：
+      “ساعدني بالاتصال “ 和 ”ساعدني في الاتصال“   
+        ”ضبط التدفئة على خمسة“ 和  ”ضبط التدفئة  خمسة“
+        "أجد لك     صديقاً " 和 " أجدك صديقاً" 
+(6) 近音词错误。大量存在“شغل”和 “شغّل”，以及“غنّي” 与 “غني”等，这类单词除了在发音上有差异外，部分词汇在词义上也上会有差异。
+(7) 单词之间有多余空格和少空格，如  "  لأم " 和 " ل أم  ”， 及 “ الوايفاي” 和 “لواي فاي”， 
+(8) 部分单词的识别后出现了没有标注符号（相当于汉语拼音的声调），虽然在单词表面小差异，但实际的发音、词性和意义均没有发生改变，
+           如：“ غداً” 和 “ غدا”，以及 “مرحباً ”和 “مرحبا”、
+
+
+
+
+竞品
+存在上述1、2、3等错误[混英表述为阿拉伯语音译形式，数字书写形式如“ثلاث” 和“٣”不一致]
